@@ -1,4 +1,4 @@
-  # Hi there, I'm Anfacaa👋
+  # Hi there, I'm Anfaca👋
 🌱 I’m learning Web Development  
 💻 I love building clean and creative projects  
 ⚡ Fun fact: I never give up on learning new things!
